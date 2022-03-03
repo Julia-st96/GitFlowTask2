@@ -1,5 +1,6 @@
 def print_func():
     print('Hello!')
+    print('And bye!')
 
 
 if __name__ == '__main__':
