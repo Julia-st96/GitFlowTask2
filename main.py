@@ -1,5 +1,6 @@
 def print_func():
     print('Hello!')
+    print('And bye!')
 
 
 def sum_func(a, b):
