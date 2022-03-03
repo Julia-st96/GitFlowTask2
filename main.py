@@ -7,4 +7,5 @@ def sum_func(a, b):
 
 
 if __name__ == '__main__':
+    print('Start')
     print_func()
